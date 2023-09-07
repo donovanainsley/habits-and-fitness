@@ -97,6 +97,27 @@ body {
     margin: 0;
   }
 
+  /* -------------------------------------------------------- Form Jumbotron */
+
+.jumbotron-form {
+  font-family: "Montserrat", sans-serif;
+  color: #ffffff;
+  text-transform: capitalize;
+  letter-spacing: 4px;
+  background-color: rgba(68, 68, 68, 0.5);
+  border-radius: 20px;
+
+  position: absolute;
+
+  width: 310px;
+  
+  padding: 10px;
+
+  bottom: 150px;
+  left: 555px;
+
+}
+
 /* ------------------------------------------------------- Footer */
 
 footer {
@@ -132,4 +153,16 @@ footer {
 footer ul {
   margin: 0;
   padding: 0 ;
+}
+
+/* ------------------------------------------------------- Button */
+
+.all-btn {
+  background-color: #00d1cd !important;
+  color:#ffffff;
+  font-weight: 500;
+  border: #444;
+  border-radius: 5px;
+  padding: 4px 10px;
+  margin-bottom: 15px;
 }

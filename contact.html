@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="https://kit.fontawesome.com/d1e7cd7fc1.js" crossorigin="anonymous"></script>
+
+    <!-- Hover:CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css" type="text/css" />
+    <!-- Hover:CSS ends. -->
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap" rel="stylesheet">
+    <!-- Google Fonts end. -->
+
+    <!-- Bootstrap CSS-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <!-- Bootstrap CSS end.-->
+
+    <link rel="stylesheet" type="text/css" href="./assets/css/style.css">
+    <title>Habits & Fitness</title>
+</head>
+<body>
+   <!-- Navbar -->
+   <nav class="navbar navbar-expand-lg bg-nav-color fixed-top">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">
+        <img id="navbar-logo" src="./assets/images/habits_fitness_hrtb.png" alt="habits and fitness logo">
+      </a>
+
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav justify-content-end flex-grow-1">
+          <li class="nav-item">
+            <a class="nav-link hvr-underline-from-left" aria-current="page" href="#">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link hvr-underline-from-left" href="#">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link hvr-underline-from-left" href="#">Plans</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link hvr-underline-from-left" href="#">Get Involved</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Landing -->
+  <div id="landing" class="container-fluid g-0">
+    <section id="hero-container">
+        <div id="hero-image"></div>
+        <div class="jumbotron-form">
+          <form action="">
+            <div class="mb-3">
+              <label for="fname" class="form-label">First Name</label>
+              <input type="text" class="form-control" id="fname" placeholder="John">
+            </div>
+            <div class="mb-3">
+              <label for="lname" class="form-label">Last Name</label>
+              <input type="text" class="form-control" id="lname" placeholder="Smith">
+            </div>
+            <div class="mb-3">
+              <label for="email" class="form-label">Email Address</label>
+              <input type="email" class="form-control" id="email" placeholder="johnsmith@example.com">
+            </div>
+            <div class="mb-3">
+              <label for="textarea" class="form-label">Comments or Questions</label>
+              <textarea class="form-control" placeholder="Leave a comment or question" id="floatingTextarea" rows="3"></textarea>
+            </div>
+            <div class="col-12">
+              <button class="btn all-btn" type="submit" data-bs-toggle="modal" data-bs-target="#contact-form-modal">Submit form</button>
+            </div>
+          </form>
+        </div>
+    </section>
+</div>
+
+  <!-- Footer Section -->
+  <footer class="container-fluid fixed-bottom">
+    <ul class="d-flex flex-row justify-content-center">
+      <li class="footer-links">
+        <a target="_blank" href="https://www.Twitter.com">
+          <div class="icon-wrapper">
+          <i class="footer-icons fa-brands fa-twitter fs-2 p-3" aria-hidden="true"></i>
+          <span class="sr-only">Twitter</span>
+          </div>
+        </a>
+      </li>
+      <li class="footer-links">
+        <a target="_blank" href="https://www.Facebook.com">
+          <div class="icon-wrapper">
+          <i class="footer-icons fa-brands fa-facebook fs-2 p-3" aria-hidden="true"></i>
+          <span class="sr-only">Facebook</span>
+          </div>
+        </a>
+      </li>
+      <li class="footer-links">
+        <a target="_blank" href="https://www.Instagram.com">
+          <div class="icon-wrapper">
+          <i class="footer-icons fa-brands fa-instagram fs-2 p-3" aria-hidden="true"></i>
+          <span class="sr-only">Instagram</span>
+        </div>
+        </a>
+      </li>
+      <li class="footer-links">
+        <a target="_blank" href="https://www.myfitnesspal.com">
+          <div class="icon-wrapper">
+          <i class="footer-icons fa-solid fa-person-running fs-2 p-3" aria-hidden="true"></i>
+          <span class="sr-only">Instagram</span>
+        </div>
+        </a>
+      </li>
+    </ul>
+  </footer>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+    <!-- Bootstrap JS end. -->
+</body>
+</html>
