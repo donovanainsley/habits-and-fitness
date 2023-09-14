@@ -87,7 +87,7 @@ body {
     
     padding: 10px;
   
-    top: 30%;
+    top: 40%;
     left: 20%;
   }
   
@@ -95,6 +95,13 @@ body {
     text-align: center;
     margin: 0;
   }
+
+  @media only screen and (max-width: 600px) {
+    .jumbotron {
+      top: 30%;
+    }
+  }
+
 
   /* -------------------------------------------------------- Form Jumbotron */
 
