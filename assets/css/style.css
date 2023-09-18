@@ -296,6 +296,29 @@ body {
   margin: 0 auto;
 }
 
+/* ------------------------------------------------------- Find-Us Section*/
+
+.find-us-text {
+  width: 100%;
+  min-height: 400px;
+  background-color: #444;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: capitalize;
+  border-radius: 8px;
+}
+.find-us-text, ul {
+  list-style-type: none;
+}
+
+
+#map {
+  min-height: 400px;
+  width: 100%;
+  border-radius: 10px;
+}
+
+
 /* ------------------------------------------------------- Footer Section*/
 
 footer {
