@@ -59,7 +59,7 @@
     <section id="hero-container">
         <div id="hero-image"></div>
         <div class="jumbotron-form">
-          <form action="">
+          <form method="POST" action="https://formdump.codeinstitute.net/">
             <div class="mb-3">
               <label for="fname" class="form-label">First Name</label>
               <input type="text" class="form-control" id="fname" placeholder="John">
@@ -77,30 +77,12 @@
               <textarea class="form-control" placeholder="Leave a comment or question" id="floatingTextarea" rows="3"></textarea>
             </div>
             <div class="col-12">
-              <button class="btn all-btn" type="button" data-bs-toggle="modal" data-bs-target="#contact-form-modal">Submit form</button>
+              <button class="btn all-btn" type="submit" data-bs-toggle="modal" data-bs-target="">Submit form</button>
             </div>
           </form>
         </div>
     </section>
 </div>
-
-  <!-- Modal -->
-  <div class="modal" tabindex="-1" id="contact-form-modal">
-    <div class="modal-dialog">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="modal-title">Thank you for enquiring</h5>
-          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-        </div>
-        <div class="modal-body">
-          <p>Thank you for enquiring but this site is for educational purposes only.</p>
-        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn all-btn" data-bs-dismiss="modal">Close</button>
-        </div>
-      </div>
-    </div>
-  </div>
 
   <!-- Footer Section -->
   <footer class="container-fluid fixed-bottom">
