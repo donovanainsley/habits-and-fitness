@@ -244,7 +244,7 @@ body {
   font-weight: 500;
 }
 
-#flip-card-img-circle-1 {
+.flip-card-img-circle-1 {
   background: url("../images/review-image-1.webp") no-repeat center center;
   background-size: cover;
   width: 100px;
@@ -257,7 +257,7 @@ body {
   margin: 0 auto;
 }
 
-#flip-card-img-circle-2 {
+.flip-card-img-circle-2 {
   background: url("../images/review-image-2.webp") no-repeat center center;
   background-size: cover;
   width: 100px;
@@ -270,7 +270,7 @@ body {
   margin: 0 auto;
 }
 
-#flip-card-img-circle-3 {
+.flip-card-img-circle-3 {
   background: url("../images/review-image-3.webp") no-repeat center center;
   background-size: cover;
   width: 100px;
@@ -283,7 +283,7 @@ body {
   margin: 0 auto;
 }
 
-#flip-card-img-circle-4 {
+.flip-card-img-circle-4 {
   background: url("../images/review-image-4.webp") no-repeat center center;
   background-size: cover;
   width: 100px;
