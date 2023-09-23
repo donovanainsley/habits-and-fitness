@@ -134,6 +134,8 @@ body {
   background-color: #444;
   color: #ffffff;
   border-radius: 8px;
+  text-transform: capitalize;
+  font-size: 1rem;
 }
 
 /* ------------------------------------------------------- Plans */
