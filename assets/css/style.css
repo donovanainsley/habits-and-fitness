@@ -28,7 +28,7 @@ body {
 .navbar-nav .nav-item .nav-link {
     color: var(--white);
     font-weight: 500;
-    font-size: 20px;
+    font-size: 2rem;
     font-family: 'Montserrat', sans-serif;
   }
 
@@ -145,7 +145,7 @@ body {
   color: var(--white);
   border-radius: 8px;
   text-transform: capitalize;
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 
 /* ------------------------------------------------------- Plans */
@@ -337,7 +337,6 @@ footer {
 .footer-links {
   list-style: none;
   padding: 10px;
-  font-size: larger;
 }
 
 .footer-links a {
