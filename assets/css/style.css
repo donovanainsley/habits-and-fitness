@@ -250,8 +250,9 @@ body {
 .hover-click-review {
   position: absolute;
   bottom: 1%;
-  right: 25%;
+  right: 13%;
   font-weight: 500;
+  text-transform: capitalize;
 }
 
 .flip-card-img-circle-1 {
