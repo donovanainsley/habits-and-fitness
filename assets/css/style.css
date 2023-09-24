@@ -16,6 +16,10 @@ body {
     background-color: var(--grey);
 }
 
+.navbar-toggler {
+  background-color: var(--blue);
+}
+
 #navbar-logo {
     height: auto;
     width: 220px;
