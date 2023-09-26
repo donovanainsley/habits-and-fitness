@@ -66,7 +66,7 @@ body {
   /* -------------------------------------------------------- Hero Image */
 
   #hero-container {
-    height: 100vh;
+    height: 100%;
     width: 100%;
     position: relative
 }
@@ -136,6 +136,7 @@ body {
   color: var(--white);
   border-radius: 8px;
   font-size: 1.5rem;
+  object-fit: cover;
 }
 
 /* ------------------------------------------------------- Plans */
