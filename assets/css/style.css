@@ -74,14 +74,13 @@ body {
 
   #hero-image {
     height: 800px;
-    width: 100%;
+    width: auto;
     background: url("../images/hero-image.webp") no-repeat center center fixed;
     object-fit: scale-down;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    display: flex;
     margin: 0;
 }
 
