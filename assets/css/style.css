@@ -68,11 +68,12 @@ body {
   #hero-container {
     height: 100%;
     width: 100%;
-    position: relative
+    overflow: hidden;
+    position: relative;
 }
 
   #hero-image {
-    height: 100vh;
+    height: 800px;
     width: 100%;
     background: url("../images/hero-image.webp") no-repeat center center fixed;
     -webkit-background-size: cover;
