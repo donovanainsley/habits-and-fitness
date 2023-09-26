@@ -121,7 +121,6 @@ body {
 .jumbotron-form {
   font-family: "Montserrat", sans-serif;
   color: var(--white);
-  text-transform: capitalize;
   letter-spacing: 4px;
   background-color: rgba(68, 68, 68, 0.5);
   border-radius: 20px;
@@ -145,7 +144,6 @@ body {
   background-color: var(--grey);
   color: var(--white);
   border-radius: 8px;
-  text-transform: capitalize;
   font-size: 1.5rem;
 }
 
@@ -323,7 +321,6 @@ body {
   color: var(--white);
   font-family: 'Montserrat', sans-serif;
   font-size: 1.5rem;
-  text-transform: capitalize;
   border-radius: 8px;
 }
 .find-us-text, ul {
