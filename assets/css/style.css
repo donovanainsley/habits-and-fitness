@@ -41,6 +41,7 @@ body {
     position: relative;
     overflow: hidden;
   }
+
   .hvr-underline-from-left:before {
     content: "";
     position: absolute;
@@ -57,6 +58,7 @@ body {
     -webkit-transition-timing-function: ease-out;
     transition-timing-function: ease-out;
   }
+
   .hvr-underline-from-left:hover:before, .hvr-underline-from-left:focus:before, .hvr-underline-from-left:active:before {
     right: 0;
   }
@@ -66,7 +68,6 @@ body {
   #hero-container {
     height: 100vh;
     width: 100%;
-
     position: relative
 }
 
@@ -79,7 +80,6 @@ body {
     -o-background-size: cover;
     background-size: cover;
     display: flex;
-
     margin: 0;
 }
 
@@ -95,12 +95,9 @@ body {
     border-radius: 20px;
     position: absolute;
     width: 60%;
-    
     padding: 10px;
-  
     top: 50%;
     left: 50%;  
-  
     transform: translate(-50%,-50%);
   }
   
@@ -124,18 +121,12 @@ body {
   letter-spacing: 4px;
   background-color: rgba(68, 68, 68, 0.5);
   border-radius: 20px;
-
   position: absolute;
-
   width: 310px;
-  
   padding: 10px;
-
   top: 50%;
   left: 50%;  
-
   transform: translate(-50%,-50%);
-
 }
 
 /* ------------------------------------------------------- Home Section*/
@@ -178,7 +169,6 @@ body {
   width: 120px;
   margin: auto;
 }
-
 
 .hvr-fade {
   display: inline-block;
@@ -323,6 +313,7 @@ body {
   font-size: 1.5rem;
   border-radius: 8px;
 }
+
 .find-us-text, ul {
   list-style-type: none;
 }
@@ -353,7 +344,6 @@ footer {
   height: fit-content;
   width: fit-content;
   border-radius: 50%;
-
   transition: 0.3s ease-in-out;
 }
 
