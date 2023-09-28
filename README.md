@@ -13,7 +13,7 @@ Habits & Fitness is an outdoor fitness bootcamp located in Cardiff, Wales, with 
 
 - ### User Stories
 
-  First Time Visitor Goals
+    * __First Time Visitor Goals__
 
         1.  As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
         2.  As a First Time Visitor, I want to see reviews and testimonials from current clients to know what they think of them and see if they are trusted.
