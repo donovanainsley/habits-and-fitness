@@ -1,8 +1,8 @@
 # Habits & Fitness
 
-![Website view on various screen sizes] (https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/images/am-i-responsive.png)
+![Website view on various screen sizes](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/images/am-i-responsive.png)
 
-[Access the live site here.] (https://donovanainsley.github.io/habits-and-fitness/)
+[Access the live site here.](https://donovanainsley.github.io/habits-and-fitness/)
 
 This is the main marketing website for Habits & Fitness. It is designed to be responsive and accessible on a range of devices,
 making it easy to navigate for new and current members.
