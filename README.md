@@ -102,3 +102,12 @@ Habits & Fitness is an outdoor fitness bootcamp located in Cardiff, Wales, with 
    - Used for shrink-to-fit in meta element.
 1. [Medium:](https://medium.com/front-end-weekly/absolute-centering-in-css-ea3a9d0ad72e)
    - This article in Medium for showing me how to center my jumbotron.
+
+## Testing
+
+The W3C Markup Validator and W3C CSS Validator Services were used to validate the projects pages to ensure there were no syntax errors.
+
+- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Index.htlml Results](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/images/index-validator-result.png)
+- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [contact.html Results](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/images/contact-validator-result.png)
+- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [contact.html Warning](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/images/contact-validator-warning-result.png)
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/images/css-validator-result.png)
