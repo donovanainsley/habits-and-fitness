@@ -114,4 +114,13 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
 ### Lighthouse
 
 - The Chrome Developer Tools lighthouse feature was employed to assess performance, adherence to best practices, accessibility, and Search Engine Optimisation (SEO). Both desktop and mobile tests were conducted for each page.  
-[View Mobile Index Test](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/lighthouse-mobile-index.png) [View Mobile Contact Test](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/lighthouse-mobile-contact.png) [View Desktop Index Test](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/lighthouse-desktop-index.png) [View Desktop Contact Test](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/lighthouse-desktop-contact.png)
+  [View Mobile Index Test](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/lighthouse-mobile-index.png) [View Mobile Contact Test](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/lighthouse-mobile-contact.png) [View Desktop Index Test](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/lighthouse-desktop-index.png) [View Desktop Contact Test](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/lighthouse-desktop-contact.png)
+
+### Testing User Stories from User Experience (UX) Section
+
+- ### First Time Visitor Goals
+
+  1.  As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+      1. When the website opens on a desktop, users are immediatley greeted with the navbar clearly showing the websites logo and easily readable links to take them to a section of the site of their choice. ![View Desktop Navbar](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/desktop-navbar.png)
+      1. When opening the site on a mobile or tablet device, the user is presented with a clearly visible burger icon which opens into a dropdown navbar. ![View Mobile Toggler](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/mobile-toggler.png)  
+         ![View Mobile Toggle Open](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/mobile-toggler-open.png)
