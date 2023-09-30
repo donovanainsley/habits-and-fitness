@@ -35,7 +35,7 @@ Habits & Fitness is an outdoor fitness bootcamp located in Cardiff, Wales, with 
 
     - The main colours used are white, turquoise and grey with black for some section headings,. This color scheme was provided to me when designing my logo on [logo.com](https://logo.com/), which I decided to keep as I appreciated the aesthetics.
 
-    [Color Palette](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/images/color-palette.png)
+    ![Color Palette](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/images/color-palette.png)
 
   - #### Typography
 
