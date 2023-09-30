@@ -1,6 +1,6 @@
 # Habits & Fitness
 
-![Website view on various screen sizes](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/images/testing/am-i-responsive.png)
+![Website view on various screen sizes](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/am-i-responsive.png)
 
 [Access the live site here.](https://donovanainsley.github.io/habits-and-fitness/)
 
@@ -35,7 +35,7 @@ Habits & Fitness is an outdoor fitness bootcamp located in Cardiff, Wales, with 
 
     - The main colours used are white, turquoise and grey with black for some section headings,. This color scheme was provided to me when designing my logo on [logo.com](https://logo.com/), which I decided to keep as I appreciated the aesthetics.
 
-    ![Color Palette](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/images/color-palette.png)
+    ![Color Palette](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/color-palette.png)
 
   - #### Typography
 
@@ -107,7 +107,7 @@ Habits & Fitness is an outdoor fitness bootcamp located in Cardiff, Wales, with 
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate the projects pages to ensure there were no syntax errors.
 
-- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Index.htlml Results](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/images/testing/index-validator-result.png)
-- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [contact.html Results](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/images/testing/contact-validator-result.png)
-- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [contact.html Warning](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/images/testing/contact-validator-warning-result.png)
+- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Index.htlml Results](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/index-validator-result.png)
+- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [contact.html Results](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/contact-validator-result.png)
+- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [contact.html Warning](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/contact-validator-warning-result.png)
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/images/testing/css-validator-result.png)
