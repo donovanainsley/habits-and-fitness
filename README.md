@@ -121,6 +121,15 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
 - ### First Time Visitor Goals
 
   1.  As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
-      1. When the website opens on a desktop, users are immediatley greeted with the navbar clearly showing the websites logo and easily readable links to take them to a section of the site of their choice. ![View Desktop Navbar](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/desktop-navbar.png)
-      1. When opening the site on a mobile or tablet device, the user is presented with a clearly visible burger icon which opens into a dropdown navbar.  
-         [View Mobile Toggler](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/mobile-toggler.png) [View Mobile Toggle Open](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/mobile-toggler-open.png)
+      1.  When the website opens on a desktop, users are immediatley greeted with the navbar clearly showing the websites logo and easily readable links to take them to a section of the site of their choice. ![View Desktop Navbar](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/desktop-navbar.png)
+      1.  When opening the site on a mobile or tablet device, the user is presented with a clearly visible burger icon which opens into a dropdown navbar.  
+      [View Mobile Toggler](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/mobile-toggler.png) [View Mobile Toggle Open](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/mobile-toggler-open.png)
+
+  1.  As a First Time Visitor, I want to see reviews and testimonials from current clients to know what they think of them and see if they are trusted.
+      1. New visitors can select reviews in the navbar or scroll down to the reviews section, reading the about us and plans section along the way, where they can then interact with the 4 newest reviews from current clients of Habits and Fitness.  
+         [View Reviews](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/reviews.png)
+      1. Additionally, users have the option to scroll down to the bottom of any page on the website in order to find social media links situated in the footer. [View Footer](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/footer-links.png)
+   
+   1. As a First Time Visitor, I want to know its location, hours of operation and services it provides.
+      1. Once new visitors are geeted by the landing section and read the about us, they are taken to the plans section where they are introduced to the three available training tiers provided by the business. [View Plans](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/plans.png)
+      1. If new visitors are undecided about whether they'd like to commit to a plan, they're able to select the find us link or scroll to the bottom, where they're informed of the businesses operating days and times as well as a map to its location. [View Find Us](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/find-us.png)
