@@ -122,5 +122,5 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
 
   1.  As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
       1. When the website opens on a desktop, users are immediatley greeted with the navbar clearly showing the websites logo and easily readable links to take them to a section of the site of their choice. ![View Desktop Navbar](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/desktop-navbar.png)
-      1. When opening the site on a mobile or tablet device, the user is presented with a clearly visible burger icon which opens into a dropdown navbar. ![View Mobile Toggler](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/mobile-toggler.png)  
-         ![View Mobile Toggle Open](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/mobile-toggler-open.png)
+      1. When opening the site on a mobile or tablet device, the user is presented with a clearly visible burger icon which opens into a dropdown navbar.  
+         [View Mobile Toggler](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/mobile-toggler.png) [View Mobile Toggle Open](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/mobile-toggler-open.png)
