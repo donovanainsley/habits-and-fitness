@@ -108,4 +108,11 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
 - [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Index.htlml Results](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/index-validator-result.png)
 - [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [contact.html Results](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/contact-validator-result.png)
 - [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [contact.html Warning](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/contact-validator-warning-result.png)
+- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [contact.html Final](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/contact-validator-final-result.png)
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/images/testing/css-validator-result.png)
+
+### Lighthouse
+
+   - The Chrome Developer Tools lighthouse feature was employed to assess performance, adherence to best practices, accessibility, and Search Engine Optimisation (SEO). Both desktop and mobile tests were conducted for each page.
+   [View Mobile Index Test](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/lighthouse-mobile-index.png) [View Mobile Contact Test](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/lighthouse-mobile-contact.png) [View Desktop Index Test](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/lighthouse-desktop-index.png) [View Desktop Contact Test](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/lighthouse-desktop-contact.png)
+
