@@ -82,8 +82,6 @@ Habits & Fitness is an outdoor fitness bootcamp located in Cardiff, Wales, with 
    - To create the website logo and favicon.
 1. [Font Awesome:](https://fontawesome.com/)
    - For the icons on the website.
-1. [Git:](https://git-scm.com/)
-   - For version control.
 1. [Github:](https://github.com/)
    - To save and store the files for the website.
 1. [Google Fonts:](https://fonts.google.com/)
