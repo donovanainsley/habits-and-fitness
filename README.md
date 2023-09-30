@@ -13,32 +13,103 @@ Habits & Fitness is an outdoor fitness bootcamp located in Cardiff, Wales, with 
 
 - ### User Stories
 
-    * __First Time Visitor Goals__
+  - **First Time Visitor Goals**
 
-        1.  As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
-        2.  As a First Time Visitor, I want to see reviews and testimonials from current clients to know what they think of them and see if they are trusted.
-        3.  As a First Time Visitor, I want to know its location, hours of operation and services it provides.
-    
-    * __Returning Visitor Goals__
+    1.  As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+    1.  As a First Time Visitor, I want to see reviews and testimonials from current clients to know what they think of them and see if they are trusted.
+    1.  As a First Time Visitor, I want to know its location, hours of operation and services it provides.
 
-        1. As a returning visitor, I want to continue finding content easily and efficiently, just like I did during my first visit.
-        2. As a returning visitor, I want to stay updated on new reviews and testimonials from other clients, reinforcing the trust I have in the website.
+  - **Returning Visitor Goals**
 
-    * __Frequent Visitor Goals__
+    1. As a returning visitor, I want to continue finding content easily and efficiently, just like I did during my first visit.
+    1. As a returning visitor, I want to stay updated on new reviews and testimonials from other clients, reinforcing the trust I have in the website.
 
-        1. As a frequent visitor, I need convenient access to location details, hours of operation, and available services in case I decide to visit a physical location.
-        2. As a frequent visitor, I want to provide feedback and collaborate in shaping the website's content and features.
+  - **Frequent Visitor Goals**
 
--   ### Design ###
+    1. As a frequent visitor, I need convenient access to location details, hours of operation, and available services in case I decide to visit a physical location.
+    1. As a frequent visitor, I want to provide feedback and collaborate in shaping the website's content and features.
 
-    -   #### Colour Scheme
+- ### Design
 
-        - The main colours used are white, turquoise and grey with black for some section headings,. This color scheme was provided to me when designing my logo on [here](https://logo.com/).
-    
-    - #### Typography
+  - #### Colour Scheme
 
-        - The Montserrat font is the main font used throughout the website with Arial as the backup due to it being considered the most web-safe font. I chose Montserrat after Googling the best Google fonts for websites and come across an article by Newbird which can be found [here](https://newbird.com/best-google-fonts-to-use-on-your-website/) where it was selected as the 2nd of the 8 best Google fonts. The 1st best was Merriweather but as this is a Serif style font it may have impacted the site's readability, and this is why I selected Montserrat as it is a Sans-Serif font that provides better readability for the site.
+    - The main colours used are white, turquoise and grey with black for some section headings,. This color scheme was provided to me when designing my logo on [logo.com](https://logo.com/).
 
-    - #### Imagery
+  - #### Typography
 
-        - Visual elements play a crucial role, especially when there's a captivating jumbotron at the center. The expansive backdrop hero image is carefully crafted to make a bold impact and instantly engage the user.
+    - The Montserrat font is the main font used throughout the website with Arial as the backup due to it being considered the most web-safe font. I chose Montserrat after Googling the best Google fonts for websites and come across an article by Newbird which can be found [here](https://newbird.com/best-google-fonts-to-use-on-your-website/) where it was selected as the 2nd of the 8 best Google fonts. The 1st best was Merriweather but as this is a Serif style font it may have impacted the site's readability, and this is why I selected Montserrat as it is a Sans-Serif font that provides better readability for the site.
+
+  - #### Imagery
+
+    - Visual elements play a crucial role, especially when there's a captivating jumbotron at the center. The expansive backdrop hero image is carefully crafted to make a bold impact and instantly engage the user. All images used throughout the site were taken from [freepik](https://www.freepik.com/).
+
+* ### Wireframes
+
+  - Home Page Wireframe - [View]
+
+  - Mobile Wireframe - [View]
+
+  - Contact Page (Get Involved) Wireframe - [View]
+
+## Features
+
+- Responsive on all device sizes.
+- Easy to navigate with a fully functioning and responsive Navbar, which becomes a toggler Navbar on smaller screen sizes, operated with a burger icon.
+- Hero image with jumbotron welcoming visitors to the website.
+- About us section providing further information on the bootcamp.
+- A plans section with animated cards which on hover or click tells visitors about different training plans available to them.
+- A reviews section with animated cards which on hover or click display to visitors, comments and star ratings of current clients with Habits and Fitness, offering proof of trustworthiness and success of business.
+- A Find Us section providing visitors with days and times of operation, including a map to easily find the location for the bootcamp.
+- Within the Find Us section is a button that takes new potential clients to a contact page called "Get Involved" where they are required to complete a form in-full before it can be submitted, to ensure all the information required to contact the user is captured.
+- A responsive footer providing the social links on the home and contact page, with a copyright disclaimer saying the website was created for a project.
+
+## Technologies Used
+
+### Languages Used
+
+- HTML5
+- CSS3
+
+### Frameworks, Libraries & Programs Used
+
+1. [Bootstrap v5.1.3:](https://getbootstrap.com/docs/5.1/getting-started/introduction/) 
+   - Bootstrap was used to help to create the framwork and responsiveness of the website, it was also used to create the navigation bar, nav-bar toggler, cards aswell as styling and spacing.
+
+1. [Hover.css:](https://ianlunn.github.io/Hover/)
+   - Hover.css was used on the navigation bar for hvr-underline-from-left and plans sections hvr-fade.
+
+1. [Logo.com:](https://logo.com/) 
+   - To create the website logo and favicon.
+
+1. [Font Awesome:](https://fontawesome.com/) 
+   - For the icons on the website.
+
+1. [Git:](https://git-scm.com/) 
+   - For version control.
+
+1. [Github:](https://github.com/) 
+   - To save and store the files for the website.
+
+1. [Google Fonts:](https://fonts.google.com/) 
+   - To import the Montserrat font used on the website.
+
+1. [UI.dev:](https://ui.dev/amiresponsive) 
+   - To show the site on a range of screen sizes.
+
+1. [freepik:](https://www.freepik.com/) 
+   - For free to use images used throughout my website.
+
+1. [w3schools:](https://www.w3schools.com/)
+   - Was used for creating the flipcards, as well as being a resource for information.
+
+1. [Cloud Convert:](https://cloudconvert.com/jpeg-to-webp)
+   - To convert images from jpeg to webp.
+
+1. [Red Ketchup:](https://redketchup.io/image-resizer)
+   - To rezie images.
+
+1. [Stack Overflow](https://stackoverflow.com/)
+   - Used for shrink-to-fit in meta element.
+
+1. [Medium:](https://medium.com/front-end-weekly/absolute-centering-in-css-ea3a9d0ad72e)
+   - This article in Medium for showing me how to center my jumbotron.
