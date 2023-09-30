@@ -33,7 +33,9 @@ Habits & Fitness is an outdoor fitness bootcamp located in Cardiff, Wales, with 
 
   - #### Colour Scheme
 
-    - The main colours used are white, turquoise and grey with black for some section headings,. This color scheme was provided to me when designing my logo on [logo.com](https://logo.com/).
+    - The main colours used are white, turquoise and grey with black for some section headings,. This color scheme was provided to me when designing my logo on [logo.com](https://logo.com/), which I decided to keep as I appreciated the aesthetics.
+
+    [Color Palette](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/images/color-palette.png)
 
   - #### Typography
 
@@ -72,44 +74,31 @@ Habits & Fitness is an outdoor fitness bootcamp located in Cardiff, Wales, with 
 
 ### Frameworks, Libraries & Programs Used
 
-1. [Bootstrap v5.1.3:](https://getbootstrap.com/docs/5.1/getting-started/introduction/) 
+1. [Bootstrap v5.1.3:](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
    - Bootstrap was used to help to create the framwork and responsiveness of the website, it was also used to create the navigation bar, nav-bar toggler, cards aswell as styling and spacing.
-
 1. [Hover.css:](https://ianlunn.github.io/Hover/)
    - Hover.css was used on the navigation bar for hvr-underline-from-left and plans sections hvr-fade.
-
-1. [Logo.com:](https://logo.com/) 
+1. [Logo.com:](https://logo.com/)
    - To create the website logo and favicon.
-
-1. [Font Awesome:](https://fontawesome.com/) 
+1. [Font Awesome:](https://fontawesome.com/)
    - For the icons on the website.
-
-1. [Git:](https://git-scm.com/) 
+1. [Git:](https://git-scm.com/)
    - For version control.
-
-1. [Github:](https://github.com/) 
+1. [Github:](https://github.com/)
    - To save and store the files for the website.
-
-1. [Google Fonts:](https://fonts.google.com/) 
+1. [Google Fonts:](https://fonts.google.com/)
    - To import the Montserrat font used on the website.
-
-1. [UI.dev:](https://ui.dev/amiresponsive) 
+1. [UI.dev:](https://ui.dev/amiresponsive)
    - To show the site on a range of screen sizes.
-
-1. [freepik:](https://www.freepik.com/) 
+1. [freepik:](https://www.freepik.com/)
    - For free to use images used throughout my website.
-
 1. [w3schools:](https://www.w3schools.com/)
    - Was used for creating the flipcards, as well as being a resource for information.
-
 1. [Cloud Convert:](https://cloudconvert.com/jpeg-to-webp)
    - To convert images from jpeg to webp.
-
 1. [Red Ketchup:](https://redketchup.io/image-resizer)
    - To rezie images.
-
 1. [Stack Overflow](https://stackoverflow.com/)
    - Used for shrink-to-fit in meta element.
-
 1. [Medium:](https://medium.com/front-end-weekly/absolute-centering-in-css-ea3a9d0ad72e)
    - This article in Medium for showing me how to center my jumbotron.
