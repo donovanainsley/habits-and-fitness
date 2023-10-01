@@ -22,11 +22,10 @@ Habits & Fitness is an outdoor fitness bootcamp located in Cardiff, Wales, with 
   - **Returning Visitor Goals**
 
     1. As a returning visitor, I want to continue finding content easily and efficiently, just like I did during my first visit.
-    1. As a returning visitor, I want to stay updated on new reviews and testimonials from other clients, reinforcing the trust I have in the website.
+    1. As a returning visitor, I want to be able to contact or be contacted by the business should I have any questions about them.
 
   - **Frequent Visitor Goals**
 
-    1. As a frequent visitor, I need convenient access to location details, hours of operation, and available services in case I decide to visit a physical location.
     1. As a frequent visitor, I want to provide feedback and collaborate in shaping the website's content and features.
 
 - ### Design
@@ -76,6 +75,8 @@ Habits & Fitness is an outdoor fitness bootcamp located in Cardiff, Wales, with 
 
 1. [Bootstrap v5.1.3:](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
    - Bootstrap was used to help to create the framwork and responsiveness of the website, it was also used to create the navigation bar, nav-bar toggler, cards aswell as styling and spacing.
+     [Visual Studio Code:](https://code.visualstudio.com/)
+   - Was used as my code editor to write code, version control using git and pushing changes for storage to GitHub.
 1. [Hover.css:](https://ianlunn.github.io/Hover/)
    - Hover.css was used on the navigation bar for hvr-underline-from-left and plans sections hvr-fade.
 1. [Logo.com:](https://logo.com/)
@@ -121,15 +122,32 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
 - ### First Time Visitor Goals
 
   1.  As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+
       1.  When the website opens on a desktop, users are immediatley greeted with the navbar clearly showing the websites logo and easily readable links to take them to a section of the site of their choice. ![View Desktop Navbar](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/desktop-navbar.png)
       1.  When opening the site on a mobile or tablet device, the user is presented with a clearly visible burger icon which opens into a dropdown navbar.  
-      [View Mobile Toggler](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/mobile-toggler.png) [View Mobile Toggle Open](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/mobile-toggler-open.png)
+          [View Mobile Toggler](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/mobile-toggler.png) [View Mobile Toggle Open](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/mobile-toggler-open.png)
 
   1.  As a First Time Visitor, I want to see reviews and testimonials from current clients to know what they think of them and see if they are trusted.
+
       1. New visitors can select reviews in the navbar or scroll down to the reviews section, reading the about us and plans section along the way, where they can then interact with the 4 newest reviews from current clients of Habits and Fitness.  
          [View Reviews](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/reviews.png)
-      1. Additionally, users have the option to scroll down to the bottom of any page on the website in order to find social media links situated in the footer. [View Footer](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/footer-links.png)
-   
-   1. As a First Time Visitor, I want to know its location, hours of operation and services it provides.
+      1. Additionally, users have the option to scroll down to the bottom of any page on the website in order to find social media links situated in the footer, where clients may have posted on the business social media pages. [View Footer](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/footer-links.png)
+
+  1.  As a First Time Visitor, I want to know its location, hours of operation and services it provides.
       1. Once new visitors are geeted by the landing section and read the about us, they are taken to the plans section where they are introduced to the three available training tiers provided by the business. [View Plans](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/plans.png)
       1. If new visitors are undecided about whether they'd like to commit to a plan, they're able to select the find us link or scroll to the bottom, where they're informed of the businesses operating days and times as well as a map to its location. [View Find Us](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/find-us.png)
+
+- ### Returning Visitor Goals
+
+  1.  As a returning visitor, I want to continue finding content easily and efficiently, just like I did during my first visit.
+
+      1. The website features a user-friendly navigation bar that remains fixed at the top of every page, ensuring straightforward and effortless navigation.  
+         [View Desktop Navbar](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/desktop-navbar.png) [View Mobile Toggler](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/mobile-toggler.png)
+
+  1.  As a returning visitor, I want to be able to contact or be contacted by the business should I have any questions about them.
+      1. If returning visitors having read some of the content within the site and are either committed to getting involved of have a few questions they need answered in a bit more detail before they do, they can hed to the "Get Involved" page by either selecting it in the navbar or the button in the find us section. There they will be greeted by a form with mandatory fields marked as required. [View Form](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/contact-form.png)
+
+- ### Frequent Visitor Goals
+
+   1. As a frequent visitor, I want to provide feedback and collaborate in shaping the website's content and features.
+      1. This can be done on the get involved page, using the form. [View Get Involved](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/get-involved-page.png)
