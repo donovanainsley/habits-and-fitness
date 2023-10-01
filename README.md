@@ -119,7 +119,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
 
 ### Testing User Stories from User Experience (UX) Section
 
-- ### First Time Visitor Goals
+   ### First Time Visitor Goals
 
   1.  As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
 
@@ -127,7 +127,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
       1.  When opening the site on a mobile or tablet device, the user is presented with a clearly visible burger icon which opens into a dropdown navbar.  
           [View Mobile Toggler](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/mobile-toggler.png) [View Mobile Toggle Open](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/mobile-toggler-open.png)
 
-  1.  As a First Time Visitor, I want to see reviews and testimonials from current clients to know what they think of them and see if they are trusted.
+   1.  As a First Time Visitor, I want to see reviews and testimonials from current clients to know what they think of them and see if they are trusted.
 
       1. New visitors can select reviews in the navbar or scroll down to the reviews section, reading the about us and plans section along the way, where they can then interact with the 4 newest reviews from current clients of Habits and Fitness.  
          [View Reviews](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/reviews.png)
@@ -137,17 +137,27 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
       1. Once new visitors are geeted by the landing section and read the about us, they are taken to the plans section where they are introduced to the three available training tiers provided by the business. [View Plans](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/plans.png)
       1. If new visitors are undecided about whether they'd like to commit to a plan, they're able to select the find us link or scroll to the bottom, where they're informed of the businesses operating days and times as well as a map to its location. [View Find Us](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/find-us.png)
 
-- ### Returning Visitor Goals
+   ### Returning Visitor Goals
 
-  1.  As a returning visitor, I want to continue finding content easily and efficiently, just like I did during my first visit.
+   1.  As a returning visitor, I want to continue finding content easily and efficiently, just like I did during my first visit.
 
       1. The website features a user-friendly navigation bar that remains fixed at the top of every page, ensuring straightforward and effortless navigation.  
          [View Desktop Navbar](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/desktop-navbar.png) [View Mobile Toggler](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/mobile-toggler.png)
 
-  1.  As a returning visitor, I want to be able to contact or be contacted by the business should I have any questions about them.
+   1.  As a returning visitor, I want to be able to contact or be contacted by the business should I have any questions about them.
       1. If returning visitors having read some of the content within the site and are either committed to getting involved of have a few questions they need answered in a bit more detail before they do, they can hed to the "Get Involved" page by either selecting it in the navbar or the button in the find us section. There they will be greeted by a form with mandatory fields marked as required. [View Form](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/contact-form.png)
 
-- ### Frequent Visitor Goals
+   ### Frequent Visitor Goals
 
    1. As a frequent visitor, I want to provide feedback and collaborate in shaping the website's content and features.
       1. This can be done on the get involved page, using the form. [View Get Involved](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/get-involved-page.png)
+
+   ### Further Testing
+
+   -  The Website was tested on Google Chrome, Mozilla Firefox, Microsoft Edge and Safari browsers.
+   -  The website was viewed on a variety of devices such as Desktop, Macbook Pro, iPad, and Samsung Galaxy S20+.
+   -  Friends and Code Institue peers Friends and family members were asked to review the site to point out any bugs and/or user experience issues.
+
+### Known Bugs
+
+   -  When validating the code for the contact.html, a warning was being pushed as the form didn't have a heading. This was not part of the design for the form so, I provided the form with a heading, giving it the class of "title" then with custom css gave it the property of display: none;. This allowed me to keep the form styled as I wanted but providing good code to show no erros or warnings. [View Here](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/contact-validator-final-result.png)
