@@ -232,6 +232,6 @@ Content for the website was written by the developer, donovanainsley.
 
 - Jack Wachira - Mentor: For feedback and insights when building my project.
 
-- June 2023 Cohort: An amazing likeminded group of people, who are always there to support one another and I appreciate you all, thank you!
+- June 2023 Cohort: An amazing group of like minded people, who are always there to support one another and I appreciate you all, thank you!
 
 - Slack Community: For quick responses when looking into peer-code-review.
