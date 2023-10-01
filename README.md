@@ -149,7 +149,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
 
    1.  As a returning visitor, I want to be able to contact or be contacted by the business should I have any questions about them.
 
-      1. If returning visitors having read some of the content within the site and are either committed to getting involved of have a few questions they need answered in a bit more detail before they do, they can hed to the "Get Involved" page by either selecting it in the navbar or the button in the find us section. There they will be greeted by a form with mandatory fields marked as required. [View Form](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/contact-form.png)
+      1. If returning visitors having read some of the content within the site and are either committed to getting involved of have a few questions they need answered in a bit more detail before they do, they can hed to the "Get Involved" page by either selecting it in the navbar or the button in the find us section. There they will be greeted by a form with mandatory fields marked as required.  
+      [View Form](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/contact-form.png)
 
    ### Frequent Visitor Goals
 
