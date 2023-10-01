@@ -134,6 +134,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
       1. Additionally, users have the option to scroll down to the bottom of any page on the website in order to find social media links situated in the footer, where clients may have posted on the business social media pages. [View Footer](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/footer-links.png)
 
   1.  As a First Time Visitor, I want to know its location, hours of operation and services it provides.
+
       1. Once new visitors are geeted by the landing section and read the about us, they are taken to the plans section where they are introduced to the three available training tiers provided by the business. [View Plans](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/plans.png)
       1. If new visitors are undecided about whether they'd like to commit to a plan, they're able to select the find us link or scroll to the bottom, where they're informed of the businesses operating days and times as well as a map to its location. [View Find Us](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/find-us.png)
 
@@ -145,11 +146,13 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
          [View Desktop Navbar](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/desktop-navbar.png) [View Mobile Toggler](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/mobile-toggler.png)
 
    1.  As a returning visitor, I want to be able to contact or be contacted by the business should I have any questions about them.
+
       1. If returning visitors having read some of the content within the site and are either committed to getting involved of have a few questions they need answered in a bit more detail before they do, they can hed to the "Get Involved" page by either selecting it in the navbar or the button in the find us section. There they will be greeted by a form with mandatory fields marked as required. [View Form](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/contact-form.png)
 
    ### Frequent Visitor Goals
 
    1. As a frequent visitor, I want to provide feedback and collaborate in shaping the website's content and features.
+   
       1. This can be done on the get involved page, using the form. [View Get Involved](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/testing/get-involved-page.png)
 
    ### Further Testing
