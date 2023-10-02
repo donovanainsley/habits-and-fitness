@@ -46,11 +46,13 @@ Habits & Fitness is an outdoor fitness bootcamp located in Cardiff, Wales, with 
 
 * ### Wireframes
 
-  - Home Page Wireframe - [View]
+  - Home Page Wireframe - [View](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/wireframes/index-desktop-wireframe.png)
 
-  - Mobile Wireframe - [View]
-
-  - Contact Page (Get Involved) Wireframe - [View]
+  - Contact Page (Get Involved) Wireframe - [View](https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/wireframes/contact-desktop-wireframe.png)
+  
+  - Mobile Wireframe - [View] (https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/wireframes/mobile-wireframe.png)
+  
+  - Tablet Wireframe - [View] (https://github.com/donovanainsley/habits-and-fitness/blob/main/assets/wireframes/tablet-wireframe.png)
 
 ## Features
 
