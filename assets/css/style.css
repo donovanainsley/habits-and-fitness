@@ -6,6 +6,10 @@
   --white: #ffffff;
 }
 
+* {
+  scroll-margin-top: 5rem;
+}
+
 body {
   font-family: 'Montserrat ', sans-serif;
   margin: 0;
@@ -91,6 +95,7 @@ body {
 
   /* -------------------------------------------------------- Jumbotron */
 
+  /**/
 .jumbotron {
     font-family: "Montserrat", sans-serif;
     font-size: 1.25rem;
