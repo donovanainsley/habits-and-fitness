@@ -216,10 +216,12 @@ To clone the habits-and-fitness repository:
    - Was used for creating the flipcards, as well as being a resource for information.
 1. [Hover.css:](https://ianlunn.github.io/Hover/)
    - Hover.css was used on the navigation bar for hvr-underline-from-left and plans sections hvr-fade.
+1. [Stack Overflow](https://stackoverflow.com/)
+   - Used for shrink-to-fit in meta element.
 
 ### Content
 
-Content for the website was written by the developer, donovanainsley.
+Content for the website was written by the developer, [donovanainsley](https://github.com/donovanainsley).
 
 ### Media
 
