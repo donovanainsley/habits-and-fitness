@@ -1,390 +1,369 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap');
 
 :root {
-  --blue: #00d1cd !important;
-  --grey: #444444;
-  --white: #ffffff;
+--blue: #00d1cd !important;
+--grey: #444444;
+--white: #ffffff;
 }
 
 * {
-  scroll-margin-top: 5rem;
+scroll-margin-top: 5rem;
 }
 
 body {
-  font-family: 'Montserrat ', sans-serif;
-  margin: 0;
+font-family: 'Montserrat ', sans-serif;
+margin: 0;
 }
 
 /* --------------------------------------------------------- Navbar */
 .bg-nav-color {
-    background-color: var(--grey);
+background-color: var(--grey);
 }
 
 .navbar-toggler {
-  background-color: var(--blue);
+background-color: var(--blue);
 }
 
 #navbar-logo {
-    height: auto;
-    width: 220px;
+height: auto;
+width: 220px;
 }
 
 .navbar-nav .nav-item .nav-link {
-    color: var(--white);
-    font-weight: 500;
-    font-size: 1.5rem;
-    font-family: 'Montserrat', sans-serif;
-  }
-
-.hvr-underline-from-left {
-    display: inline-block;
-    vertical-align: middle;
-    -webkit-transform: perspective(1px) translateZ(0);
-    transform: perspective(1px) translateZ(0);
-    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
-    position: relative;
-    overflow: hidden;
-  }
-
-  .hvr-underline-from-left:before {
-    content: "";
-    position: absolute;
-    z-index: -1;
-    left: 0;
-    right: 100%;
-    bottom: 0;
-    background: var(--blue);
-    height: 4px;
-    -webkit-transition-property: right;
-    transition-property: right;
-    -webkit-transition-duration: 0.3s;
-    transition-duration: 0.3s;
-    -webkit-transition-timing-function: ease-out;
-    transition-timing-function: ease-out;
-  }
-
-  .hvr-underline-from-left:hover:before, .hvr-underline-from-left:focus:before, .hvr-underline-from-left:active:before {
-    right: 0;
-  }
-
-  /* -------------------------------------------------------- Hero Image */
-
-  #hero-container {
-    height: 100%;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
+color: var(--white);
+font-weight: 500;
+font-size: 1.5rem;
+font-family: 'Montserrat', sans-serif;
 }
 
-  #hero-image {
-    height: 100vh;
-    width: auto;
-    background: url("../images/hero-image.webp") no-repeat center center fixed;
-    object-fit: scale-down;
-    overflow: hidden;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    margin: 0;
+.hvr-underline-from-left {
+display: inline-block;
+vertical-align: middle;
+-webkit-transform: perspective(1px) translateZ(0);
+transform: perspective(1px) translateZ(0);
+box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+position: relative;
+overflow: hidden;
+}
+
+.hvr-underline-from-left:before {
+content: "";
+position: absolute;
+z-index: -1;
+left: 0;
+right: 100%;
+bottom: 0;
+background: var(--blue);
+height: 4px;
+-webkit-transition-property: right;
+transition-property: right;
+-webkit-transition-duration: 0.3s;
+transition-duration: 0.3s;
+-webkit-transition-timing-function: ease-out;
+transition-timing-function: ease-out;
+}
+
+.hvr-underline-from-left:hover:before, .hvr-underline-from-left:focus:before, .hvr-underline-from-left:active:before {
+right: 0;
+}
+
+/* -------------------------------------------------------- Hero Image */
+
+#hero-container {
+height: 100%;
+width: 100%;
+overflow: hidden;
+position: relative;
+}
+
+#hero-image {
+height: 100vh;
+width: auto;
+background: url("../images/hero-image.webp") no-repeat center center fixed;
+object-fit: scale-down;
+overflow: hidden;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+margin: 0;
 }
 
 .title {
-  display:none;
+display:none;
 }
 
-  /* -------------------------------------------------------- Jumbotron */
+/* -------------------------------------------------------- Jumbotron */
 
-  /**/
 .jumbotron {
-    font-family: "Montserrat", sans-serif;
-    font-size: 1.25rem;
-    color: var(--white);
-    text-transform: capitalize;
-    letter-spacing: 4px;
-    background-color: rgba(68, 68, 68, 0.5);
-    border-radius: 20px;
-    position: absolute;
-    width: 60%;
-    padding: 10px;
-    top: 50%;
-    left: 50%;  
-    transform: translate(-50%,-50%);
-  }
-  
-  .jtron-text {
-    text-align: center;
-    margin: 0;
-  }
+font-family: "Montserrat", sans-serif;
+font-size: 1.25rem;
+color: var(--white);
+text-transform: capitalize;
+letter-spacing: 4px;
+background-color: rgba(68, 68, 68, 0.5);
+border-radius: 20px;
+position: absolute;
+width: 60%;
+padding: 10px;
+top: 50%;
+left: 50%;  
+transform: translate(-50%,-50%);
+}
 
-  @media only screen and (max-width: 576px) {
-    .jumbotron {
-      top: 54%;
-    }
-  }
+.jtron-text {
+text-align: center;
+margin: 0;
+}
 
+@media only screen and (max-width: 576px) {
+.jumbotron {
+top: 54%;
+}
+}
 
-  /* -------------------------------------------------------- Form Jumbotron */
+/* -------------------------------------------------------- Form Jumbotron */
 
 .jumbotron-form {
-  font-family: "Montserrat", sans-serif;
-  color: var(--white);
-  letter-spacing: 4px;
-  background-color: rgba(68, 68, 68, 0.5);
-  border-radius: 20px;
-  position: absolute;
-  width: 310px;
-  padding: 10px;
-  top: 50%;
-  left: 50%;  
-  transform: translate(-50%,-50%);
+font-family: "Montserrat", sans-serif;
+color: var(--white);
+letter-spacing: 4px;
+background-color: rgba(68, 68, 68, 0.5);
+border-radius: 20px;
+position: absolute;
+width: 310px;
+padding: 10px;
+top: 50%;
+left: 50%;  
+transform: translate(-50%,-50%);
 }
 
 /* ------------------------------------------------------- Home Section*/
 
 .about-us-container{
-  background-color: var(--grey);
-  color: var(--white);
-  border-radius: 8px;
-  font-size: 1.5rem;
+background-color: var(--grey);
+color: var(--white);
+border-radius: 8px;
+font-size: 1.5rem;
 }
 
 .about-image-container {
-  object-fit: cover;
+object-fit: cover;
 }
 
 /* ------------------------------------------------------- Plans */
 
 .card .card-body ul {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
+list-style-type: none;
+padding: 0;
+margin: 0;
 }
 
 .card-body {
-  background-color: var(--grey);
-  color: var(--white);
-  font-family: 'Montserrat', sans-serif;
-  font-size: 1.5rem;
+background-color: var(--grey);
+color: var(--white);
+font-family: 'Montserrat', sans-serif;
+font-size: 1.5rem;
 }
 
 .muted {
-  color: #7f7f7f;
+color: #7f7f7f;
 }
 
 .card-title {
-  text-align: center;
+text-align: center;
 }
 
 .card-underline {
-  background: var(--white);
-  height: 6px;
-  border: 0px;
-  border-radius: 2px;
-  width: 120px;
-  margin: auto;
+background: var(--white);
+height: 6px;
+border: 0px;
+border-radius: 2px;
+width: 120px;
+margin: auto;
 }
 
 .hvr-fade {
-  display: inline-block;
-  vertical-align: middle;
-  -webkit-transform: perspective(1px) translateZ(0);
-  transform: perspective(1px) translateZ(0);
-  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
-  overflow: hidden;
-  -webkit-transition-duration: 0.3s;
-  transition-duration: 0.3s;
-  -webkit-transition-property: color, background-color;
-  transition-property: color, background-color;
+display: inline-block;
+vertical-align: middle;
+-webkit-transform: perspective(1px) translateZ(0);
+transform: perspective(1px) translateZ(0);
+box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+overflow: hidden;
+-webkit-transition-duration: 0.3s;
+transition-duration: 0.3s;
+-webkit-transition-property: color, background-color;
+transition-property: color, background-color;
 }
+
 .hvr-fade:hover, .hvr-fade:focus, .hvr-fade:active {
-  background-color: var(--blue);
-  color: var(--white);
+background-color: var(--blue);
+color: var(--white);
 }
 
 @media only screen and (max-width: 768px) {
-  .card-body {
-    text-align: center;
-  }
+.card-body {
+text-align: center;
+}
 }
 
 /* ------------------------------------------------------- Reviews */
 
 /* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 .flip-card {
-  background-color: transparent;
-  width: 300px;
-  height: 200px;
-  perspective: 1000px; /* Remove this if you don't want the 3D effect */
+background-color: transparent;
+width: 300px;
+height: 200px;
+perspective: 1000px; /* Remove this if you don't want the 3D effect */
 }
 
 /* This container is needed to position the front and back side */
 .flip-card-inner {
-  position: relative;
-  width: 100%;
-  height: 100%;
-  text-align: center;
-  transition: transform 1s;
-  transform-style: preserve-3d;
+position: relative;
+width: 100%;
+height: 100%;
+text-align: center;
+transition: transform 1s;
+transform-style: preserve-3d;
 }
 
 /* Do an horizontal flip when you move the mouse over the flip box container */
 .flip-card:hover .flip-card-inner {
-  transform: rotateY(180deg);
+transform: rotateY(180deg);
 }
 
 /* Position the front and back side */
 .flip-card-front, .flip-card-back {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  -webkit-backface-visibility: hidden; /* Safari */
-  backface-visibility: hidden;
-  border-radius: 20px;
-  color: var(--white);
+position: absolute;
+width: 100%;
+height: 100%;
+-webkit-backface-visibility: hidden; /* Safari */
+backface-visibility: hidden;
+border-radius: 20px;
+color: var(--white);
 }
 
 /* Style the front side (fallback if image is missing) */
 .flip-card-front {
-  background-color: var(--grey);
+background-color: var(--grey);
 }
 
 /* Style the back side */
 .flip-card-back {
-  background-color: var(--blue);
-  color: var(--white);
-  transform: rotateY(180deg);
+background-color: var(--blue);
+color: var(--white);
+transform: rotateY(180deg);
 }
 
 .hover-click-review {
-  position: absolute;
-  bottom: 1%;
-  right: 13%;
-  font-weight: 500;
-  text-transform: capitalize;
-  font-size: 1rem;
+position: absolute;
+bottom: 1%;
+right: 13%;
+font-weight: 500;
+text-transform: capitalize;
+font-size: 1rem;
 }
 
-.flip-card-img-circle-1 {
-  background: url("../images/review-image-1.webp") no-repeat center center;
-  background-size: cover;
-  width: 100px;
-  height: 100px;
-  padding: 10px;
-  border-style: solid;
-  border-color: var(--blue);
-  border-width: 2px;
-  border-radius: 50%;
-  margin: 0 auto;
+.flip-card-img-circle {
+width: 100px;
+height: 100px;
+padding: 10px;
+border-style: solid;
+border-color: var(--blue);
+border-width: 2px;
+border-radius: 50%;
+margin: 0 auto;
 }
 
-.flip-card-img-circle-2 {
-  background: url("../images/review-image-2.webp") no-repeat center center;
-  background-size: cover;
-  width: 100px;
-  height: 100px;
-  padding: 10px;
-  border-style: solid;
-  border-color: var(--blue);
-  border-width: 2px;
-  border-radius: 50%;
-  margin: 0 auto;
+.review-image-1 {
+background: url("../images/review-image-1.webp") no-repeat center center;
+background-size: cover;
 }
 
-.flip-card-img-circle-3 {
-  background: url("../images/review-image-3.webp") no-repeat center center;
-  background-size: cover;
-  width: 100px;
-  height: 100px;
-  padding: 10px;
-  border-style: solid;
-  border-color: var(--blue);
-  border-width: 2px;
-  border-radius: 50%;
-  margin: 0 auto;
+.review-image-2 {
+background: url("../images/review-image-2.webp") no-repeat center center;
+background-size: cover;
 }
 
-.flip-card-img-circle-4 {
-  background: url("../images/review-image-4.webp") no-repeat center center;
-  background-size: cover;
-  width: 100px;
-  height: 100px;
-  padding: 10px;
-  border-style: solid;
-  border-color: var(--blue);
-  border-width: 2px;
-  border-radius: 50%;
-  margin: 0 auto;
+.review-image-3 {
+background: url("../images/review-image-3.webp") no-repeat center center;
+background-size: cover;
+}
+
+.review-image-4 {
+background: url("../images/review-image-4.webp") no-repeat center center;
+background-size: cover;
 }
 
 /* ------------------------------------------------------- Find-Us Section*/
 
 .find-us-text {
-  width: 100%;
-  min-height: 400px;
-  background-color: var(--grey);
-  color: var(--white);
-  font-family: 'Montserrat', sans-serif;
-  font-size: 1.5rem;
-  border-radius: 8px;
+width: 100%;
+min-height: 400px;
+background-color: var(--grey);
+color: var(--white);
+font-family: 'Montserrat', sans-serif;
+font-size: 1.5rem;
+border-radius: 8px;
 }
 
 .find-us-text, ul {
-  list-style-type: none;
+list-style-type: none;
 }
 
 #map {
-  min-height: 400px;
-  width: 100%;
-  border-radius: 10px;
+min-height: 400px;
+width: 100%;
+border-radius: 10px;
 }
 
 /* ------------------------------------------------------- Footer Section*/
 
 footer {
-  background-color: var(--grey);
+background-color: var(--grey);
 }
 
 .footer-links {
-  list-style: none;
-  padding: 10px;
+list-style: none;
+padding: 10px;
 }
 
 .footer-links a {
-  text-decoration: none;
+text-decoration: none;
 }
 
 .icon-wrapper {
-  background-color: #878787;
-  height: fit-content;
-  width: fit-content;
-  border-radius: 50%;
-  transition: 0.3s ease-in-out;
+background-color: #878787;
+height: fit-content;
+width: fit-content;
+border-radius: 50%;
+transition: 0.3s ease-in-out;
 }
 
 .icon-wrapper:hover {
-  background-color: var(--blue);
+background-color: var(--blue);
 }
 
 .footer-icons {
-  color: var(--white);
+color: var(--white);
 }
+
 footer ul {
-  margin: 0;
-  padding: 0 ;
+margin: 0;
+padding: 0 ;
 }
 
 .copyright {
-  color: var(--white);
+color: var(--white);
 }
 
 /* ------------------------------------------------------- Button */
 
 .all-btn {
-  background-color: var(--blue) !important;
-  color: var(--white);
-  font-weight: 500;
-  border: var(--grey);
-  border-radius: 5px;
-  padding: 4px 10px;
+background-color: var(--blue) !important;
+color: var(--white);
+font-weight: 500;
+border: var(--grey);
+border-radius: 5px;
+padding: 4px 10px;
 }
