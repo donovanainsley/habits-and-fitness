@@ -101,6 +101,8 @@ Habits & Fitness is an outdoor fitness bootcamp located in Cardiff, Wales, with 
    - Used for shrink-to-fit in meta element.
 1. [Medium:](https://medium.com/front-end-weekly/absolute-centering-in-css-ea3a9d0ad72e)
    - This article in Medium for showing me how to center my jumbotron.
+1. [Code Institute:](https://codeinstitute.net/global/)
+   - Used for examples of landing image, flip card reviews and form dump.
 
 ## Testing
 
