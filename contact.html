@@ -68,7 +68,7 @@
           <div id="hero-image"></div>
           <div class="jumbotron-form">
             <h3 class="title">Get Involved!</h3>
-            <form method="POST" action="https://formdump.codeinstitute.net/"> <!-- Form dump taken from code institute -->
+            <form method="POST" target="_blank" action="https://formdump.codeinstitute.net/"> <!-- Form dump taken from code institute -->
               <div class="mb-3">
                 <label for="fname" class="form-label">First Name</label>
                 <input type="text" class="form-control" id="fname" placeholder="John" required>
@@ -79,7 +79,7 @@
               </div>
               <div class="mb-3">
                 <label for="phone" class="form-label">Phone Number</label>
-                <input type="number" class="form-control" id="phone" placeholder="07700 900077" required>
+                <input type="tel" pattern="[0-9]{11}" class="form-control" id="phone" placeholder="07700900077" required>
               </div>
               <div class="mb-3">
                 <label for="email" class="form-label">Email Address</label>
