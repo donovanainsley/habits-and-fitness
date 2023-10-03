@@ -76,7 +76,7 @@ Habits & Fitness is an outdoor fitness bootcamp located in Cardiff, Wales, with 
 ### Frameworks, Libraries & Programs Used
 
 1. [Bootstrap v5.1.3:](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
-   - Bootstrap was used to help to create the framwork and responsiveness of the website, it was also used to create the navigation bar, nav-bar toggler, cards aswell as styling and spacing.
+   - Bootstrap was used to help to create the framwork and responsiveness of the website, it was also used to create the navigation bar, nav-bar toggler, cards, form and jumbotron aswell as styling and spacing.
 1. [Visual Studio Code:](https://code.visualstudio.com/)
    - Was used as my code editor to write code, version control using git and pushing changes for storage to GitHub.
 1. [Hover.css:](https://ianlunn.github.io/Hover/)
@@ -94,7 +94,7 @@ Habits & Fitness is an outdoor fitness bootcamp located in Cardiff, Wales, with 
 1. [freepik:](https://www.freepik.com/)
    - For free to use images used throughout my website.
 1. [w3schools:](https://www.w3schools.com/)
-   - Was used for creating the flipcards, as well as being a resource for information.
+   - Was used for creating the flipcards, onclick function as well as being a resource for information.
 1. [Cloud Convert:](https://cloudconvert.com/jpeg-to-webp)
    - To convert images from jpeg to webp.
 1. [Red Ketchup:](https://redketchup.io/image-resizer)
@@ -211,13 +211,13 @@ To clone the habits-and-fitness repository:
 ### Code
 
 1. [Bootstrap v5.1.3:](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
-   - Bootstrap was used to help to create the framwork and responsiveness of the website, it was also used to create the navigation bar, nav-bar toggler, cards, and jumbotron, aswell as styling and spacing I then customised with my own CSS.
+   - Bootstrap was used to help to create the framwork and responsiveness of the website, it was also used to create the navigation bar, nav-bar toggler, cards, form and jumbotron, aswell as styling and spacing I then customised with my own CSS.
 1. [Code Institute](https://codeinstitute.net/)
    - Used as an example from the Love Running walkthrough for the styling of my landing image but also restyled the code for my flipcard review images.
 1. [Medium:](https://medium.com/front-end-weekly/absolute-centering-in-css-ea3a9d0ad72e)
    - This article in Medium for showing me how to center my jumbotron.
 1. [w3schools:](https://www.w3schools.com/)
-   - Was used for creating the flipcards, as well as being a resource for information.
+   - Was used for creating the flipcards, onclick fucntion as well as being a resource for information.
 1. [Hover.css:](https://ianlunn.github.io/Hover/)
    - Hover.css was used on the navigation bar for hvr-underline-from-left and plans sections hvr-fade.
 1. [Stack Overflow](https://stackoverflow.com/)
