@@ -63,7 +63,7 @@
   </nav>
 
   <!-- Landing -->
-  <section id="landing">
+  <section id="contact">
     <div id="hero-container" class="container-fluid g-0">
           <div id="hero-image"></div>
           <div class="jumbotron-form">
@@ -71,23 +71,23 @@
             <form method="POST" target="_blank" action="https://formdump.codeinstitute.net/"> <!-- Form dump taken from code institute -->
               <div class="mb-3">
                 <label for="fname" class="form-label">First Name</label>
-                <input type="text" class="form-control" id="fname" placeholder="John" required>
+                <input type="text" class="form-control" id="fname" name="fname" placeholder="John" required>
               </div>
               <div class="mb-3">
                 <label for="lname" class="form-label">Last Name</label>
-                <input type="text" class="form-control" id="lname" placeholder="Smith" required>
+                <input type="text" class="form-control" id="lname" name="lname" placeholder="Smith" required>
               </div>
               <div class="mb-3">
                 <label for="phone" class="form-label">Phone Number</label>
-                <input type="tel" pattern="[0-9]{11}" class="form-control" id="phone" placeholder="07700900077" required>
+                <input type="tel" pattern="[0-9]{11}" class="form-control" id="phone" name="phone" placeholder="07700900077" required>
               </div>
               <div class="mb-3">
                 <label for="email" class="form-label">Email Address</label>
-                <input type="email" class="form-control" id="email" placeholder="johnsmith@example.com" required>
+                <input type="email" class="form-control" id="email" name="email" placeholder="johnsmith@example.com" required>
               </div>
               <div class="mb-3">
-                <label for="floatingTextarea" class="form-label">Comments or Questions</label>
-                <textarea class="form-control" placeholder="Leave a comment or question" id="floatingTextarea" rows="3"></textarea>
+                <label for="comments" class="form-label">Comments or Questions</label>
+                <textarea class="form-control" placeholder="Leave a comment or question" id="comments" name="comments" rows="3"></textarea>
               </div>
               <div class="col-12">
                 <input class="btn all-btn" type="submit" value="Get Involved">
