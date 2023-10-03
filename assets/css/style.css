@@ -92,7 +92,7 @@ body {
 }
 
 .title {
-  isplay: none;
+  display: none;
 }
 
 /* -------------------------------------------------------- Jumbotron */
@@ -372,7 +372,4 @@ footer ul {
   border: var(--grey);
   border-radius: 5px;
   padding: 4px 10px;
-}
-
-.new-class {
 }
