@@ -36,6 +36,7 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
+/* --- hover underline from https://ianlunn.github.io/Hover/ */
 .hvr-underline-from-left {
   display: inline-block;
   vertical-align: middle;
@@ -46,6 +47,7 @@ body {
   overflow: hidden;
 }
 
+/* --- hover underline from https://ianlunn.github.io/Hover/ */
 .hvr-underline-from-left:before {
   content: "";
   position: absolute;
@@ -63,6 +65,7 @@ body {
   transition-timing-function: ease-out;
 }
 
+/* --- hover underline from https://ianlunn.github.io/Hover/ */
 .hvr-underline-from-left:hover:before,
 .hvr-underline-from-left:focus:before,
 .hvr-underline-from-left:active:before {
@@ -110,7 +113,7 @@ body {
   padding: 10px;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); /* Taken from an article in medium on how to center elements or images */
 }
 
 .jtron-text {
@@ -137,7 +140,7 @@ body {
   padding: 10px;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); /* Taken from an article in medium on how to center elements or images */
 }
 
 /* ------------------------------------------------------- Home Section*/
