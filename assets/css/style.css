@@ -7,7 +7,7 @@
 }
 
 * {
-  scroll-margin-top: 5rem;
+  scroll-margin-top: 5rem; /* Scroll margin was used so when selecting links in the nav-bar it is off-set by the nav-bar height*/
 }
 
 body {
@@ -94,10 +94,6 @@ body {
   margin: 0;
 }
 
-.title {
-  display: none;
-}
-
 /* -------------------------------------------------------- Jumbotron */
 
 .jumbotron {
@@ -141,6 +137,10 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%); /* Taken from an article in medium on how to center elements or images */
+}
+
+.title {
+  display: none;
 }
 
 /* ------------------------------------------------------- Home Section*/
